@@ -14,7 +14,7 @@ it's not a goal.
 What else we build [with Ruby](https://evrone.com/ruby)
 
 
-## Install
+## Install cuprite
 
 Add this to your `Gemfile` and run `bundle install`.
 
