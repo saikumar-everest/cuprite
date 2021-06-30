@@ -1,4 +1,4 @@
-# Cuprite - Headless Chrome driver for Capybara
+Cuprite - Headless Chrome driver for Capybara
 
 [![CircleCI](https://circleci.com/gh/rubycdp/cuprite.svg?style=shield)](https://circleci.com/gh/rubycdp/cuprite)
 
